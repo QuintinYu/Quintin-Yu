@@ -1,2 +1,2 @@
 # Quintin-Yu
-study
+python note
